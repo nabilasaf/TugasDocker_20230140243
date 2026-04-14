@@ -1,16 +1,20 @@
 Halaman web masing masing
 
 login
-<img width="1919" height="1014" alt="Screenshot 2026-04-14 144129" src="https://github.com/user-attachments/assets/a569c686-0279-4905-bce0-15d8f8c8ba82" />
+<img width="1919" height="1021" alt="Screenshot 2026-04-14 144111" src="https://github.com/user-attachments/assets/078e24a1-10b7-4c68-b572-2d3e476ba488" />
+
 
 home
-<img width="1916" height="1022" alt="Screenshot 2026-04-14 144139" src="https://github.com/user-attachments/assets/1dfbf26b-e9a8-4d17-8de2-2870a988c69e" />
+<img width="1919" height="1014" alt="Screenshot 2026-04-14 144129" src="https://github.com/user-attachments/assets/157aaf10-a1e7-4862-9092-aa600b7174ec" />
+
 
 form
-<img width="1920" height="1080" alt="Screenshot 2026-04-14 144213" src="https://github.com/user-attachments/assets/ab17aa80-1b74-4287-b929-1c82107fb0b7" />
+<img width="1916" height="1022" alt="Screenshot 2026-04-14 144139" src="https://github.com/user-attachments/assets/9c0fb3d8-9b0b-4be0-b3c4-15aca08b7b66" />
+
 
 home setelah diinput datanya
-<img width="1919" height="1021" alt="Screenshot 2026-04-14 144111" src="https://github.com/user-attachments/assets/b42ee17a-4c8a-42fe-aef1-d7d19a4a45f3" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-14 144213" src="https://github.com/user-attachments/assets/5c2fff16-8f21-4c30-b840-2d10f5012fdc" />
+
 
 Halaman web teman
 
